@@ -7,7 +7,7 @@ end
 end
 
 def summon_captain_planet(array)
-  # Your code here
+ array.collect do 
 end
 
 def long_planeteer_calls# code an argument here
