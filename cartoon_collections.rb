@@ -15,8 +15,8 @@ end
 def long_planeteer_calls(mall)
   mall.any? do |mall|
     mall.length < 4
+  end
 end
-
 def find_the_cheese# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
